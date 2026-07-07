@@ -6,7 +6,7 @@ I am Fatima, a Backend-focused full-stack software engineer at Reply (Valorem Re
 ## Work
 
 ### Theodore Roosevelt Presidential Library
-Campfire - RAG-based conversational AI assistant that lets visitors talk with an AI Roosevelt over the archive collection. Built the Python OData filter builders and Azure AI Search retrieval layer, plus the React multi-mode chat selector and inline feedback flow. Featured at the library's July 2026 grand opening in Medora, North Dakota, where President Trump spoke with the assistant during his tour.
+**Campfire** - RAG-based conversational AI assistant that lets visitors talk with an AI Roosevelt over the archive collection. Built the Python OData filter builders and Azure AI Search retrieval layer, plus the React multi-mode chat selector and inline feedback flow. Featured at the library's July 2026 grand opening in Medora, North Dakota, where President Trump spoke with the assistant during his tour.
 
 `Python` `Azure AI Search` `RAG` `React` `Zustand`
 
@@ -15,12 +15,12 @@ Campfire - RAG-based conversational AI assistant that lets visitors talk with an
 
 
 ### Carnival Cruise Lines
-GHESS - Offline-first admin and publishing platform. Built the RBAC admin control panel (hierarchical roles, multi-role assignment, user management) and a configurable document system, attribute-to-template binding, and dynamic attribute management. On the backend, .NET API with EF Core and SQL Server, plus bidirectional RxDB and SQL Server replication with delta sync and conflict resolution.
+**GHESS** - Offline-first admin and publishing platform. Built the RBAC admin control panel (hierarchical roles, multi-role assignment, user management) and a configurable document system, attribute-to-template binding, and dynamic attribute management. On the backend, .NET API with EF Core and SQL Server, plus bidirectional RxDB and SQL Server replication with delta sync and conflict resolution.
 
 `React` `TypeScript` `C# / .NET` `EF Core` `SQL Server` `RxDB` `IndexedDB`
 
 ## Goodwill Industries International 
-Gateway - Config-driven reporting platform. Built a JSON-driven multi-form engine rendering form variants with rule-based auto calculations, dependency-aware recalculation, and layered validation. Added Excel ingestion pipelines with full audit traceability and a reusable auth layer validating Azure Entra ID JWT tokens with RBAC claims mapping enforced at the middleware before business logic.
+**Gateway** - Config-driven reporting platform. Built a JSON-driven multi-form engine rendering form variants with rule-based auto calculations, dependency-aware recalculation, and layered validation. Added Excel ingestion pipelines with full audit traceability and a reusable auth layer validating Azure Entra ID JWT tokens with RBAC claims mapping enforced at the middleware before business logic.
 
 `React` `TypeScript` `Node.js` `tRPC` `TypeScript` `Prisma` `Azure SQL` `Azure Entra ID`
 
